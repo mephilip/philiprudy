@@ -1,0 +1,48 @@
+{
+  "name": "philiprudy",
+  "version": "1.0.0",
+  "description": "Portfolio site of philiprudy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mephilip/philiprudy.git"
+  },
+  "keywords": [
+    "portfolio",
+    "wordepress",
+    "react"
+  ],
+  "author": "Philip Rudy",
+  "bugs": {
+    "url": "https://github.com/mephilip/philiprudy/issues"
+  },
+  "homepage": "https://github.com/mephilip/philiprudy",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.12.10",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-combine-media-queries": "^0.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-eslint": "^2.0.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-newer": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-watch": "^4.3.6",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
